@@ -10,4 +10,4 @@ Cooking
 My favourite site [Billibili](https://www.bilibili.com/).<br />
 require "My hobby"<br />
 [guidelines for this project](./README.md)<br />
-![Photo](./image.md)<br />
+![Photo](https://wx2.sinaimg.cn/mw1024/0066sHr2ly1g5qgh7qeijj30ty14a1ky.jpg)<br />
