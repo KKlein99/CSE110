@@ -19,7 +19,6 @@ require "My hobby"<br />
 ## Roomate
 1. Kai
 2. Jessy
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] lab1
+- [ ] HW
 ![Photo](https://wx2.sinaimg.cn/mw1024/0066sHr2ly1g5qgh7qeijj30ty14a1ky.jpg)<br />
