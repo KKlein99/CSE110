@@ -7,7 +7,7 @@ My hobby
 Snow Boarding
 Cooking
 ```
-My favourite site [Billibili](https://www.bilibili.com/).
-require "My hobby"
-[guidelines for this project](./README.md)
-![Photo](./image.md)
+My favourite site [Billibili](https://www.bilibili.com/).<br />
+require "My hobby"<br />
+[guidelines for this project](./README.md)<br />
+![Photo](./image.md)<br />
